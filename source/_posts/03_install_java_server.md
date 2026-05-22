@@ -1,6 +1,6 @@
 ---
 title: 第三课 安装Java版服务端
-date: 2026-05-19 19:43:36
+date: 2026-05-12 19:43:36
 tags: [活动,课程宣讲]
 cover: /img/post/03_install_java_server/cover.webp
 ---
